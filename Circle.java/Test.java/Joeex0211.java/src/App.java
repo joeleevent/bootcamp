@@ -1,7 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        Scanner input = new Scanner(System.in);
-
-        for（戈；；）
+        System.out.println("Hello, World!");
     }
 }
